@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning and pursuing an MSc in Operations Management at the University of Salford to enhance my skills and knowledge in the Energy sector's DevOps domain.
 
-💞️ I’m looking to collaborate on exciting projects related to Power Systems, DevOps, and process improvement within the energy industry.
+💞️ I’m looking to collaborate on exciting projects related to Power Systems, DevOps, and process improvement within the energy and IT/Telecom industry.
 
 📫 You can reach me through the following channels:
 - Email: adeolu.rabiu@gmail.com
