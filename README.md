@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adeolu Rabiu
+# 👋 Hi, I'm Adeolu Rabiu (+447578928667)
 
 I'm a passionate and detail-driven **DevOps & Cloud Infrastructure Engineer** with experience building scalable, secure, and automated environments. I specialize in bridging the gap between development and operations with expertise across **AWS**, **Kafka**, **Kubernetes**, **Data Engineering**, and **CI/CD pipelines**.
 
