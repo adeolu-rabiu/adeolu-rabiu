@@ -23,6 +23,7 @@ I'm a passionate and detail-driven **DevOps & Cloud Infrastructure Engineer** wi
 - 📧 Email: [adeolu.rabiu@gmail.com](mailto:adeolu.rabiu@gmail.com)  
 - 📞 Phone: +44 7578 928667  
 - 💼 [LinkedIn: Adeolu Rabiu](https://www.linkedin.com/in/adeolu-rabiu)
+-    https://www.researchgate.net/profile/Adeolu-Rabiu-2?ev=hdr_xprf
 
 ---
 
