@@ -2,7 +2,9 @@
 
 **Site Reliability Engineer | Infrastructure & Cloud Engineer | PMO & IT Project Delivery**
 
-I'm a hands-on infrastructure and reliability engineer with 16+ years of experience across **SRE, cloud, DevOps, and IT project delivery** in telecoms, cloud platforms, and education environments. I build and operate **observability and monitoring platforms**, own **production incident response end-to-end**, and bridge technical operations with structured delivery governance — keeping systems reliable, projects on track, and stakeholders informed.
+I'm a hands-on infrastructure and reliability engineer with 16+ years of experience across **SRE, cloud, DevOps, enterprise IT, telecommunications and IT project delivery**. I build and operate observable, resilient infrastructure, own production incident response end-to-end, and combine engineering automation with **ITIL-aligned service management and structured delivery governance**.
+
+**My focus is on keeping systems reliable, services continually improving, and technical delivery aligned with business outcomes.**
 
 📍 Manchester, UK &nbsp;|&nbsp; 📞 +447578928667 &nbsp;|&nbsp; 🔗 [linkedin.com/in/adeolurabiu](https://linkedin.com/in/adeolurabiu)
 
@@ -63,20 +65,22 @@ I'm a hands-on infrastructure and reliability engineer with 16+ years of experie
 | SLO / SLI / Error Budgets | Docker · Kubernetes | Windows Server & Networking |
 | Incident Response & RCA | CI/CD · GitHub Actions | VMware ESXi · Hyper-V |
 | Postmortems · Runbooks | Python · Bash · PowerShell | Endpoint Security & Compliance |
-| On-Call Operations · MTTR | Kafka · ELK · OpenTelemetry | PMO · RAID · Governance |
+| On-Call Operations · MTTR | Kafka · ELK · OpenTelemetry | ITIL · Service Management · PMO · Governance |
 
 ---
 
 ## 📜 Certifications
 
+- ✅ **ITIL Foundation (Version 5)** 
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **SC-900** — Microsoft Security Fundamentals
 - ✅ **CCNA** — Cisco Certified Network Associate
 - ✅ **Certified Scrum Master (CSM)**
 - ✅ **Diploma in Cybersecurity**
+
+  
 - 🔄 **AZ-104** — Azure Administrator — In Progress
 - 🔄 **AZ-500** — Azure Security Engineer — In Progress
-- 🔄 **ITIL 4 Foundation** — In Progress
 
 ---
 
